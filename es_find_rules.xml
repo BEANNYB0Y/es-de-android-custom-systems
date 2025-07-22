@@ -7,7 +7,7 @@
 			<entry>xyz.aethersx2.custom/xyz.aethersx2.android.EmulationActivity</entry>
 		</rule>
 	</emulator>
-	<emulator name="AZAHARPLUS">
+	<emulator name="+AzaharPlus+">
         <!-- Nintendo 3DS emulator AzaharPlus-coexist -->
         <rule type="androidpackage">
             <entry>io.github.azaharplus.android/org.citra.citra_emu.activities.EmulationActivity</entry>
